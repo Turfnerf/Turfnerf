@@ -1,4 +1,4 @@
-## Magandang Araw! 👋
+## Magandang Buhay! 👋
 
 ---
 
