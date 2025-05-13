@@ -6,7 +6,7 @@
 
 ## Projects
 1. **Ameliorate**
-    - 🔧 Building on the Basics. A Vanilla+ add-on enhancing existing features for a more connected, enjoyable experience.
+    - Building on the Basics. A Vanilla+ add-on enhancing existing features for a more connected, enjoyable experience.
 
     - 🧱  Explore new useful and decorative blocks to expand your creative possibilities.
     - 🐖 Updated vanilla mob behaviors for a more immersive experience.
