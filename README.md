@@ -4,7 +4,7 @@
 
 👋 Hi, I am Turfnerf, a Minecraft Bedrock Add-ons developer and aspiring artist passionate about bringing dreams to life one block at a time! 🌞
 
-###Projects
+## Projects
 1. **Ameliorate**
     - 🔧 Building on the Basics. A Vanilla+ add-on enhancing existing features for a more connected, enjoyable experience.
 
